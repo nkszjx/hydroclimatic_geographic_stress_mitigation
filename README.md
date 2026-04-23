@@ -2,7 +2,7 @@
 These are the codes that were used to quantify hydroclimatic and geographic stress mitigation by urbanization for global urban green spaces
 
 ## Results
-![](/fig2.png)
+![](/fig.png)
 
 
 ## Package pre-requisites
