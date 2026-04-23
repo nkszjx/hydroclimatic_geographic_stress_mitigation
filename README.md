@@ -66,10 +66,6 @@ Our ideas may partly come from the papers:
 
 [Air pollution lowers Chinese urbanites’ expressed happiness on social media](https://www.nature.com/articles/s41562-018-0521-2)
 
-[Temperature impacts on hate speech online: evidence from 4 billion geolocated tweets from the USA](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00173-5/fulltext)
-
-[Urbanites’ mental health undermined by air pollution](https://www.nature.com/articles/s41893-022-01032-1)
-
 
 
 
