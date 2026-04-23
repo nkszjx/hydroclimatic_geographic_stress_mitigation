@@ -70,10 +70,6 @@ Our ideas may partly come from the papers:
 
 [Urbanites’ mental health undermined by air pollution](https://www.nature.com/articles/s41893-022-01032-1)
 
-![](/ac.png)
-
-[International Future AI Laboratory](https://ai4eo.de/)
-
 
 
 
