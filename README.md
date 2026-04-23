@@ -71,8 +71,8 @@ Our ideas may partly come from the papers:
 
 ## Citation
 
-```
+Jianhua Guo†,*, Bowei Yu†,*, Jianghao Wang, Zhongchang Sun, Dong Liang, and Huadong Guo1*. "Quantifying hydroclimatic and geographic stress mitigation by urbanization for global urban green space." Submitted to Nature cities, 2026
 
-```
+
 
 
